@@ -12,3 +12,4 @@ echo $code->getRule(); // generates a random rule
 ```
 
 ## contributing
+Did the rules change overnight? Feel free to make a pull request!
