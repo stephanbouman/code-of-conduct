@@ -1,0 +1,14 @@
+# Bit Acadamy Code Of Conduct 
+This package returns a random rule from the code of conduct of Bit Academy
+```bash
+composer require stephanbouman/codeofconduct
+```
+
+## using the generator
+
+```php  
+$code = new CodeOfConduct();
+echo $code->getRule(); // generates a random rule
+```
+
+## contributing
