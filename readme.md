@@ -1,7 +1,7 @@
 # Bit Acadamy Code Of Conduct 
 This package returns a random rule from the code of conduct of Bit Academy
 ```bash
-composer require stephanbouman/codeofconduct
+composer require stephanbouman/code-of-conduct
 ```
 
 ## using the generator

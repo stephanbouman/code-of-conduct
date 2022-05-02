@@ -1,5 +1,5 @@
 {
-    "name": "stephanbouman/random-astley",
+    "name": "stephanbouman/code-of-conduct",
     "description": "This package throws you a random rule from the code of conduct.",
     "autoload": {
         "psr-4": {
