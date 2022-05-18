@@ -7,7 +7,7 @@ composer require stephanbouman/code-of-conduct
 ## using the generator
 
 ```php  
-$code = new CodeOfConduct();
+$code = new \Stephanbouman\CodeOfConduct\CodeOfConduct();
 echo $code->getRule(); // generates a random rule
 ```
 
